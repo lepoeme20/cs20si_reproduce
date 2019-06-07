@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0fd84cf-0ed6-478a-ba20-c943165ec9c9" name="Default Changelist" comment="" />
+    <list default="true" id="b0fd84cf-0ed6-478a-ba20-c943165ec9c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lecture1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4600">
-              <caret line="115" selection-start-line="115" selection-end-line="115" />
+            <state relative-caret-position="1142">
+              <caret line="121" column="119" selection-start-line="121" selection-start-column="119" selection-end-line="121" selection-end-column="119" />
             </state>
           </provider>
         </entry>
@@ -69,6 +72,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -96,12 +100,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559901825461</updated>
-      <workItem from="1559901826748" duration="1289000" />
+      <workItem from="1559901826748" duration="1515000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1289000" />
+    <option name="totallyTimeSpent" value="1515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2246" y="664" width="3754" height="2124" extended-state="6" />
@@ -138,8 +142,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lecture1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4600">
-          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        <state relative-caret-position="1142">
+          <caret line="121" column="119" selection-start-line="121" selection-start-column="119" selection-end-line="121" selection-end-column="119" />
         </state>
       </provider>
     </entry>

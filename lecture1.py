@@ -113,3 +113,10 @@ with g1.as_default():
 # add operators to the user created graph
 with g2.as_default():
     b = tf.constant(5)
+
+
+#######################################################################################################################
+# Tensorflow create graph and compute sub-graph when user call session
+# User can assign each other device such as the first GPU, second GPU or CPU on each sub-graph computation
+# It is the reason tensorflow create a graph first of all
+#######################################################################################################################
