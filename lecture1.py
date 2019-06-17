@@ -24,6 +24,9 @@ sess = tf.Session()     # call Session to compute the graph
 print(sess.run(a))      # print output
 sess.close()            # close Session
 
+# A Session object encapsulates the environment in which Operation objects are executed, and Tensor objects are evaluated.
+# Session will also allocate memory to store the current values of variables.
+
 # with clause takes care of sess.close()
 with tf.Session() as sess:
     print(sess.run(a))      # this is a python syntax
